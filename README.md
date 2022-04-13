@@ -54,7 +54,7 @@ I'm a Front End Developer based in India 🙏, As a passionate developer, I am p
 	<a href="https://github.com/jaypavasiya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://in.linkedin.com/in/jay-pavasiya-22520516b"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/jay_pavasiya"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
+	<a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
