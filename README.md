@@ -28,7 +28,7 @@ I'm a Front End Developer based in India , As a passionate developer, I am passi
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=6&theme=algolia" alt="jaypavasiya" /></a>  </p>
 
 <!-- algolia -->
 <br>
