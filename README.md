@@ -34,12 +34,12 @@ I'm a Front End Developer based in India , As a passionate developer, I am passi
 <br>
 <hr/>
 
-## ⚡ Recent GitHub Activity
+<!-- ## ⚡ Recent GitHub Activity
 <a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaypavasiya&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=jaypavasiy)
 
-<hr/>
+<hr/> -->
 
 ## 🐍
   <br>
