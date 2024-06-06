@@ -49,10 +49,10 @@ I'm a Front End Developer based in India , As a passionate developer, I am passi
 
 <hr/>
 
-## 😂 Joke
+<!--## 😂 Joke
 <div align="center">
 <img src='https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight' />
-</div>
+</div> -->
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
@@ -67,5 +67,5 @@ I'm a Front End Developer based in India , As a passionate developer, I am passi
 	
 </p>
 
-[![@jaypavasiya's Holopin board](https://holopin.io/api/user/board?user=jaypavasiya)](https://holopin.io/@jaypavasiya)
+<!--[![@jaypavasiya's Holopin board](https://holopin.io/api/user/board?user=jaypavasiya)](https://holopin.io/@jaypavasiya) -->
 
