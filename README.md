@@ -62,8 +62,8 @@ const jay = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jaypavasiya&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaypavasiya&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jaypavasiya&custom_title=Jay%27s%20GitHub%20Stats&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaypavasiya&custom_title=Jay%27s%20GitHub%20Stats&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8">
